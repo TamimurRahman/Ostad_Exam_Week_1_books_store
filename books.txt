@@ -1,4 +1,7 @@
-Harry Potter | J.K. Rowling  | 1023 | Fantasy  | 23 | 12
 
-A | b | 123 | dldl | 30 | 12
-A | b | 3456 | ssd | 20 | 30
+Python Basics | John Doe | 3421 | Programming | 20.5 | 34
+Django Guide | Jane Smith | 5678 | Web Dev | 25.50 | 3
+Abc,20.0,30
+abc | abc | 123 | jdd | 123.0 | 12
+abc | xyz | 453 | abc | 30.0 | 33
+abc | sss | 120 | djjd | 3.0 | 20
